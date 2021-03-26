@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Chris Kang
+- 👀 I’m interested in VIM/ReactJS/Typescript/NodeJS/Python/C#
+- 🌱 I’m currently learning everything I can!
+- 💞️ I’m looking to collaborate on vim plugins!
+- 📫 How to reach me chris.sm.kang542@gmail.com
